@@ -1,6 +1,6 @@
 # Tiffany Ho
 
-I build and rigorously document machine learning systems, spanning computer vision, human computer interactions, and natural language processing - writing up my work in CHI research paper format, not just code.
+I build and rigorously document machine learning systems, spanning computer vision, human computer interactions, and natural language processing - writing up my work in CHI format, not just code.
 
 MS in Computer Science - Intelligent Systems, The University of Texas at Dallas
 
