@@ -3,7 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.site-header,
-.page-header {
+#header_wrap {
   background: linear-gradient(120deg, #155799, #159957);
 }
