@@ -1,5 +1,7 @@
 # Projects
 
+**Chat with an AI briefed on my work:** [Ask me anything](https://claude.ai/public/artifacts/fcfa0068-ffef-45a3-b08d-1c7ad3238622)
+
 ## Cartoon Eyes Emotion Predictor
 [GitHub](https://github.com/tiffanyho68/Cartoon-Eyes-Emotion-Predictor.git)
 
