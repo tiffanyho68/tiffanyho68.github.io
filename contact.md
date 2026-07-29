@@ -1,5 +1,7 @@
 # Contact
 
+[Home](/) · [Projects](/projects) · [About](/about) · [Contact](/contact)
+
 Seeking full-time AI/ML roles. If this kind of work is a fit for your team, I'd love to hear from you.
 
 **Email:** [tiffanyho68@gmail.com](mailto:tiffanyho68@gmail.com)
