@@ -1,5 +1,7 @@
 # Tiffany Ho
 
+[Home](/) · [Projects](/projects) · [About](/about) · [Contact](/contact)
+
 I build and rigorously document machine learning systems, spanning computer vision, human computer interactions, and natural language processing - writing up my work in CHI format papers, not just code.
 
 MS in Computer Science - Intelligent Systems, The University of Texas at Dallas
