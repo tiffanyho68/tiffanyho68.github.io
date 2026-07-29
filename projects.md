@@ -2,7 +2,7 @@
 
 [Home](/) · [Projects](/projects) · [About](/about) · [Contact](/contact)
 
-**Chat with an AI briefed on my work:** <a href="https://claude.ai/public/artifacts/fcfa0068-ffef-45a3-b08d-1c7ad3238622" target="_blank">Ask me anything</a>
+**Chat with an AI briefed on my work (Claude account required - free):** <a href="https://claude.ai/public/artifacts/fcfa0068-ffef-45a3-b08d-1c7ad3238622" target="_blank">Ask me anything</a>
 
 ## Cartoon Eyes Emotion Predictor
 [GitHub](https://github.com/tiffanyho68/Cartoon-Eyes-Emotion-Predictor.git)
