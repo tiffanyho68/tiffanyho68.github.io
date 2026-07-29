@@ -10,6 +10,8 @@ Seeking full-time AI/ML roles. If this kind of work is a fit for your team, I'd 
 
 **[tiffanyho68@gmail.com](mailto:tiffanyho68@gmail.com)**
 
-**Chat with an AI briefed on my work:** [Ask me anything](https://claude.ai/public/artifacts/fcfa0068-ffef-45a3-b08d-1c7ad3238622)
+**Chat with an AI briefed on my work:** <a href="https://claude.ai/public/artifacts/fcfa0068-ffef-45a3-b08d-1c7ad3238622" target="_blank">Ask me anything</a>
 
-<iframe src="https://claude.ai/public/artifacts/fcfa0068-ffef-45a3-b08d-1c7ad3238622" width="100%" height="600" style="border: 1px solid #343c41; border-radius: 10px;" title="Chat with my personal agent"></iframe>
+
+
+
