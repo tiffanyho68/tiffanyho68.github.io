@@ -11,7 +11,7 @@
 
 **What I did.** I switched from CNN to HOG feature extraction with an SVM classifier, and narrowed the input to eyes only. That constraint was deliberate: I wanted to isolate how much emotional signal the eyes carry on their own in cartoons, separate from the rest of the face.
 
-**What came of it.** The model reached 55.56% accuracy - about 5% better than my original whole-face version, which surprised me; I expected eyes-only to be harder, not easier. The main failure was confusing angry with happy or sad, namely happy. Looking at the misclassifications, I think it comes down to how simplistic cartoon styles draw emotion: narrowed or squinted eyes show up for both anger and happiness, and in cartoons the mouth usually disambiguates the two - information an eyes-only model doesn't have. I documented the full method, results, and limitations in a CHI format paper, with a clear next step: a larger, more diverse training set.
+**What came of it.** The model reached 55.56% accuracy - about 5% better than my original whole-face version, which surprised me; I expected eyes-only to be harder, not easier. The main failure was confusing angry with happy or sad, namely happy. Looking at the misclassifications, I think it comes down to how simplistic cartoon styles draw emotion: narrowed or squinted eyes show up for both anger and happiness, and in cartoons the mouth usually disambiguates the two - information an eyes only model doesn't have. I documented the full method, results, and limitations in a CHI format paper, with a clear next step: a larger, more diverse training set.
 
 ---
 
