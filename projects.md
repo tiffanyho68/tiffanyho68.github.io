@@ -18,7 +18,7 @@
 ## Artificial Companionship Engagement
 [GitHub](https://github.com/tiffanyho68/Artificial-Companionship-Engagement.git)
 
-**The problem.** In a graduate human computer interactions course, my group set out to study a modern phenomenon we'd all noticed and found significant: people becoming overly emotionally attached to AI companion chatbots, sometimes isolating from real relationships as a result. I wanted to combine a social issue with technical research - I've had my own experiences with mental health struggles and have always been drawn to understanding a range of mental health issues, so I proposed for us to investigate whether people with mental health struggles are more likely to form this kind of attachment.
+**The problem.** In a graduate human computer interactions (HCI) course, my group set out to study a modern phenomenon we'd all noticed and found significant: people becoming overly emotionally attached to AI companion chatbots, sometimes isolating from real relationships as a result. I wanted to combine a social issue with technical research - I've had my own experiences with mental health struggles and have always been drawn to understanding a range of mental health issues, so I proposed for us to investigate whether people with mental health struggles are more likely to form this kind of attachment.
 
 **What I did.** My main role was research design: drafting the experiment questions and participant survey and writing the CHI format paper sections covering our literature review, methodology, and findings. A teammate built the chatbot itself, and I also contributed to the statistical testing for significance. We ran the study on classmates over a short data collection window, using a chatbot with customizable personality features, constrained by the budget available to us for more advanced tooling.
 
@@ -29,7 +29,7 @@
 ## Resume Classifier
 [GitHub](https://github.com/tiffanyho68/Resume-Classifier.git) · [Video Demo](https://youtu.be/3YEI-1tER9Y)
 
-**The problem.** In a graduate NLP course, I could choose my own project topic. I was applying for internships at the time and thinking a lot about how companies filter applicants. Resumes aren't structured like typical documents, and I got curious whether I could build something similar to the systems companies actually use to screen resumes by keyword and predict job type.
+**The problem.** In a graduate natural language processing (NLP) course, I could choose my own project topic. I was applying for internships at the time and thinking a lot about how companies filter applicants. Resumes aren't structured like typical documents, and I got curious whether I could build something similar to the systems companies actually use to screen resumes by keyword and predict job type.
 
 **What I did.** I built a Naive Bayes classifier, a standard baseline for text classification and one I'd researched as a strong fit for the task, documenting the project in a YouTube video demo. For my data set, I pulled resumes from the internet across a variety of job types for training and testing.
 
