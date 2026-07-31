@@ -33,7 +33,7 @@
 
 **What I did.** I built a Naive Bayes classifier, a standard baseline for text classification and one I'd researched as a strong fit for the task, documenting the project in a YouTube video demo. For my data set, I pulled resumes from the internet across a variety of job types for training and testing.
 
-**What came of it.** On a small test set of 6 resumes, the model got 4 correct. Looking at the misses, the real limitation wasn't the method - it was the data: too few job categories, too few resumes overall, and not enough variation within a single job type (e.g., two software engineer resumes can look very different, such as one leaning toward AI and the other toward cloud computing). A stronger version of this project would need a larger, more diverse resume set that also captures that kind of within-category variation.
+**What came of it.** On a small test set of 6 resumes, the model got 4 correct. Looking at the misses, the real limitation wasn't the method - it was the data: too few job categories, too few resumes overall, and not enough variation within a single job type (e.g., two software engineer resumes can look very different, such as one leaning toward AI and the other toward cloud computing). A stronger version of this project would need a larger, more diverse resume set that also captures that kind of within category variation.
 
 ---
 
